@@ -1,6 +1,3 @@
----
-permalink: /
----
 # Privacy Policy — Lokey
 
 **Last updated: May 2026**
