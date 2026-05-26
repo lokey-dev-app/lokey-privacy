@@ -68,7 +68,7 @@ If this policy is updated, the updated version will be published at the same URL
 
 If you have questions about this privacy policy, you can contact the developer at:
 
-**Email:** [lokey.dev.app@gmail.com]
+**Email:** lokey.dev.app@gmail.com
 
 ---
 
